@@ -1,6 +1,5 @@
 
 Bottleneck==1.3.2
-certifi==2021.10.8
 
 
 
