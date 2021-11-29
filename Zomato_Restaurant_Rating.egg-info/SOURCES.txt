@@ -1,0 +1,6 @@
+README.md
+setup.py
+Zomato_Restaurant_Rating.egg-info/PKG-INFO
+Zomato_Restaurant_Rating.egg-info/SOURCES.txt
+Zomato_Restaurant_Rating.egg-info/dependency_links.txt
+Zomato_Restaurant_Rating.egg-info/top_level.txt
